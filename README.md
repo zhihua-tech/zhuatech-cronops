@@ -1,5 +1,7 @@
 # ZhuaTech CronOps · 知华 Cron 任务规划工具
 
+[简体中文](README.md) | [English](README.en.md)
+
 上海如静知华信息科技有限公司社区源码工具，用于五段式 Cron 表达式检查、执行频次估算和任务运行风险提示。[知华科技官网](https://www.zhuatech.cn/)
 
 ![CronOps](docs/images/workspace.svg)
